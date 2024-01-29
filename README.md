@@ -1,10 +1,31 @@
 # Hello, I'm Nikhil Dongre 👋
 
-## About Me
 
-I'm a passionate front-end developer currently diving into the realms of backend development and data structures & algorithms. My journey in the tech world involves crafting beautiful and user-friendly interfaces, and I'm excited about expanding my skills to backend technologies.
+## About Me 👨‍💻
 
-As a college student, I thrive on learning and exploring new technologies to stay ahead in the ever-evolving tech landscape. My interests also extend to UI/UX design, where I strive to create seamless and delightful user experiences.
+Hey there! I'm Nikhil Dongre, a front-end developer with a thirst for knowledge and a passion for creating seamless user experiences. Currently venturing into the worlds of backend development and diving deep into the exciting realm of data structures and algorithms.
+
+## 🌐 Tech Stack
+
+- **Front-end:** HTML, CSS, JavaScript, React
+- **Back-end:** Currently exploring [insert technologies here]
+- **Data Structures & Algorithms:** Constantly learning and improving
+
+## 🎓 Education
+
+I'm a college student, eager to absorb all the knowledge the tech world has to offer.
+
+## 🎨 UI/UX Enthusiast
+
+Beyond coding, I enjoy delving into the world of UI/UX design, aiming to create visually appealing and user-friendly interfaces.
+
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/nikhil-dongre81)
+- [Instagram](https://www.instagram.com/yourinstagram)
+
+
+
 
 ## Tech Stack
 
