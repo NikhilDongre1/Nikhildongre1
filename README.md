@@ -52,8 +52,8 @@ Explore my repositories for more projects and contributions!
 
 ## Get in Touch
 
-📧 Email: nikhildongre8109@gmail.com
-🔗LinkedIn: nikhil-dongre81
+📧 Email: nikhildongre8109@gmail.com     
+🔗LinkedIn: nikhil-dongre81    
 🌐 Website: 
 
 Looking forward to connecting with the amazing GitHub community!
