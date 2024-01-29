@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Nikhil Dongre 👋
 
 ## About Me
 
@@ -14,7 +14,7 @@ As a college student, I thrive on learning and exploring new technologies to sta
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
+- [LinkedIn](https://www.linkedin.com/in/nikhil-dongre81)
 - [Instagram](https://www.instagram.com/yourinstagram)
 
 Feel free to connect with me! I'm always open to discussions, collaborations, and sharing knowledge.
