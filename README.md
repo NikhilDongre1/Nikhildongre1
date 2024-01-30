@@ -14,23 +14,6 @@ Hey there! I'm a front-end developer passionate about crafting seamless user exp
 - **Back-end:** Exploring ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-  
-- **Data Structures & Algorithms:** Always learning and improving
-
-## 🎓 Education
-
-- 3rd year student at LPU.
-- Persuing B.Tech in Computer Science.
-- *Specialization*: Full-Stack Web Development.
-
-## 🎨 UI/UX Enthusiast
-
-Beyond coding, I enjoy delving into the world of UI/UX design, aiming to create visually appealing and user-friendly interfaces.
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
 
 ## 💻 Projects
 
