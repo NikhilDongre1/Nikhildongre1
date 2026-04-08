@@ -26,23 +26,4 @@ Hey there! I'm a front-end developer passionate about crafting seamless user exp
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-## 💻 Projects
 
-Here are some notable projects:
-
-1. [CRYPT-ON](link-to-project-1) - A real-time cryptocurrency tracking platform with interactive charts and detailed coin info pages.
-   - **Tech:** React.js, Material UI, Chart.js
-2. [Smart-Blog](link-to-project-2) - A blog platform with CRUD operations and secure authentication, utilizing OpenAI API for generating post descriptions.
-   - **Tech:** React, Express.js, MongoDB, JWT
- 
-
-Explore my repositories for more projects and contributions!
- 
-
-## Get in Touch
-
-📧 Email: nikhildongre8109@gmail.com     
-🔗 LinkedIn: [nikhil-dongre81](https://www.linkedin.com/in/nikhil-dongre81)    
-🌐 Website: [nikhil.portfolio](https://nikhil-portfolio-dd3g.onrender.com)
-
-Looking forward to connecting with the amazing GitHub community!
