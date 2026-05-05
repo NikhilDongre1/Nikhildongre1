@@ -7,7 +7,6 @@ Software developer with ~1.5 years of experience building production-grade finte
 | Category          | Details |
 |------------------|--------|
 | **Role**         | Software Developer |
-| **Experience**   | 1.5+ years (Fintech - Jupiter) |
 | **Languages**    | JavaScript, TypeScript, C++, SQL |
 | **Frontend**     | React.js, React Native, Next.js, Tailwind |
 | **Backend**      | Node.js, Express.js, GraphQL |
@@ -18,7 +17,6 @@ Software developer with ~1.5 years of experience building production-grade finte
 
 ## 🔗 Links
 
-- 🌐 Portfolio: https://nikhildongre.vercel.app  
-- 💻 GitHub: https://github.com/NikhilDongre1  
+- 🌐 Portfolio: https://nikhildongre.vercel.app   
 - 🔗 LinkedIn: https://www.linkedin.com/in/nikhil-dongre81  
 - 🧠 HackerRank: https://www.hackerrank.com/nikhildongre8109  
