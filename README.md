@@ -1,7 +1,8 @@
 # 👋 Nikhil Dongre
 ## 🚀 About
 Software developer with ~1.5 years of experience building production-grade fintech products. Focused on scalable frontend systems, backend-driven UI, and end-to-end feature ownership.
-<img width="1068" height="420" alt="image" src="https://github.com/user-attachments/assets/418fd74f-2d8b-4738-a58e-4bac79591033" />
+
+<img width="1068" height="320" alt="image" src="https://github.com/user-attachments/assets/418fd74f-2d8b-4738-a58e-4bac79591033" />
 
 ## 🧩 Snapshot
 
